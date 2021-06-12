@@ -11,6 +11,7 @@ Files in this repository:
 - Notebooks in both .dbc and .html formats
   - .dbc format is available to be uploaded to the Databricks environment
   - .html format can be open in any browser once downloaded, without needing access to Databricks
+    - Download and uncompress the .zip file and you will see the individual notebooks in .html extension
   
 For the code to work, you need to create a directory named `mlops2021` and place all the individual notebooks underneath, shown in the screenshot: 
 
