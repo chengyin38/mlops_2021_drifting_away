@@ -6,7 +6,7 @@ ML deployment is not the end — it is where ML models start to materialize impa
 What you’ll Learn:
 A set of tests and metrics that ML practitioners should care about post ML deployment. 
 
-**Note that all tests I have chosen are non-parametric, which means they don't assume normality in data distributions*
+**Note that all tests chosen are non-parametric, which means they don't assume normality in data distributions*
 
 Files in this repository:
 - Slides in PDF
