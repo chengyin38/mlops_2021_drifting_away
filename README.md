@@ -12,7 +12,7 @@ A set of tests and metrics that ML practitioners should care about post ML deplo
 
 Files in this repository:
 - Slides in PDF
-- Notebooks in both .dbc and .html formats
+- Notebooks in both .dbc, .html, and ipynb formats
   - .dbc format is available to be uploaded to the Databricks environment
   - .html format can be open in any browser once downloaded, without needing access to Databricks
     - Download and uncompress the .zip file and you will see the individual notebooks in .html extension
