@@ -6,7 +6,9 @@ ML deployment is not the end — it is where ML models start to materialize impa
 What you’ll Learn:
 A set of tests and metrics that ML practitioners should care about post ML deployment. 
 
-**Note that all tests chosen are non-parametric, which means they don't assume normality in data distributions*
+**Important Note**:
+- All tests chosen are non-parametric, which means they don't assume normality in data distributions
+- For non-Databricks users, you will need to configure your own MLflow tracking server to view the MLflow UI 
 
 Files in this repository:
 - Slides in PDF
